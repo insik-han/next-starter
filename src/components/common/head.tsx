@@ -4,7 +4,8 @@ export default function Head() {
   return (
     <>
       <NextHead>
-        <title>Next TS</title>
+        <title>Next Starter</title>
+        <link rel="icon" href="/favicon.ico" />
       </NextHead>
     </>
   );
