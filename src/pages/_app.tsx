@@ -1,4 +1,4 @@
-import type { AppProps } from "next/app";
+import { type AppProps } from "next/app";
 
 import { Head } from "src/components/common";
 import { fontPretendard } from "src/fonts";
